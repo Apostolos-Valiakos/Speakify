@@ -1,0 +1,10 @@
+pip install PyAudio
+pip install faster-whisper
+pip install tkinter
+pip install speech_recognition
+pip install pyttsx3
+pip install openai
+pip install pathlib
+pip install PIL
+pip install requests
+pip install io
