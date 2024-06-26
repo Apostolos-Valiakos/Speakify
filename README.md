@@ -1,6 +1,6 @@
-# LinguaSynth
+# Speakify
 
-LinguaSynth is a cutting-edge application designed to seamlessly convert speech to text and text to speech. Leveraging advanced large language models (LLMs), it enhances communication and accessibility, making it a powerful tool for a variety of fields such as education, entertainment, and support for individuals with disabilities.
+Speakify is a cutting-edge application designed to seamlessly convert speech to text and text to speech. Leveraging advanced large language models (LLMs), it enhances communication and accessibility, making it a powerful tool for a variety of fields such as education, entertainment, and support for individuals with disabilities.
 
 ## Features
 
@@ -13,12 +13,12 @@ LinguaSynth is a cutting-edge application designed to seamlessly convert speech 
 
 ## Installation
 
-To get started with LinguaSynth, follow these steps:
+To get started with Speakify, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/LinguaSynth.git
-    cd LinguaSynth
+    git clone https://github.com/yourusername/Speakify.git
+    cd Speakify
     ```
 
 2. **Install Dependencies**:
@@ -53,7 +53,7 @@ To get started with LinguaSynth, follow these steps:
 
 ## Contributing
 
-We welcome contributions to LinguaSynth! To contribute:
+We welcome contributions to Speakify! To contribute:
 
 1. **Fork the Repository**:
     Click the "Fork" button on the top right of this page to create a copy of the repository on your GitHub account.
@@ -88,4 +88,4 @@ For any questions or feedback, feel free to open an issue or contact us at [vali
 
 ---
 
-**LinguaSynth** - Enhancing communication through advanced language technologies.
+**Speakify** - Enhancing communication through advanced language technologies.
